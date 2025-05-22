@@ -1,4 +1,3 @@
-[README_Code_1.96_v2.txt](https://github.com/user-attachments/files/20393617/README_Code_1.96_v2.txt)
 # Code 1.96 – The Fractal Law of Memory Geometry and Cosmic Resonance
 
 A unified tensor field theory proposing Ψₘₙ as a static, divergence-free geometric replacement for both dark matter and dark energy. The model predicts fractal cosmic structure (Hausdorff dᴴ ≈ 1.96), 0.12 Hz gravitational wave echoes, and biological field resonance correlations.
@@ -29,13 +28,13 @@ This framework introduces a rank-2 tensor field Ψₘₙ as an alternative to th
 ## Links
 
 - Full Theory (OSF): [https://osf.io/c8p6t/](https://osf.io/c8p6t/)  
-- Zenodo (DOI): _[Add if published]_  
-- IPFS Mirror: _[Add CID link if mirrored]_
+- Zenodo (DOI):  
+- IPFS Mirror:
 
 ## Author
 
 **Monica Araujo**  
-monica.araujo.theory@gmail.com
+monica.araujo1413@proton.me
 
 ---
 
