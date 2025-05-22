@@ -29,7 +29,7 @@ This framework introduces a rank-2 tensor field Ψₘₙ as an alternative to th
 
 - Full Theory (OSF): [https://osf.io/c8p6t/](https://osf.io/c8p6t/)  
 - Zenodo (DOI):  
-- IPFS Mirror:
+- IPFS Mirror:[https://ipfs.io/ipfs/146e9b9a8b66316d5b753eab7fc0f1e8a130985b](https://ipfs.io/ipfs/146e9b9a8b66316d5b753eab7fc0f1e8a130985b)
 
 ## Author
 
